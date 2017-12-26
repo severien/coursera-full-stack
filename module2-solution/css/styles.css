@@ -22,7 +22,6 @@ header h2 {
 	padding: 15px;
 	border: 1px solid black;
 	margin:10px;
-	background-color: #F5EEF8;
 	font-family: 'Indie Flower', cursive;
 }
 .card-title {
@@ -38,6 +37,15 @@ header h2 {
 	text-shadow: 2px 3px #000;
 	float:right;
 	position: relative;
+}
+#section1 {
+	background-color: #D6EAF8;
+}
+#section2 {
+	background-color: #FCF3CF;
+}
+#section3 {
+	background-color: #FDEBD0;
 }
 #section1 .card-title {
 	background-color: #33B6FF;
